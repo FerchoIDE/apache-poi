@@ -1,0 +1,4 @@
+Bundle-Name: apache-poi
+Bundle-SymbolicName: apache.poi
+Bundle-Version: 1.0.0
+Export-Package: apache.poi.api
